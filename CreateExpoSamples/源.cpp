@@ -3,6 +3,7 @@
 #include <sstream>
 #include <time.h>
 using namespace std;
+
 using namespace cv;
 #define WIDTH 720
 #define HEIGHT 576
